@@ -7,7 +7,7 @@ import requests
 bot_token = '5252564895:AAF5qfWspdy9zFKNpOdMUTzXIKOKNRRkDz8'
 chat_id = "-639058363"
 text = "Intruder alert"
-file = r"C:\Users\rajni\OneDrive\Desktop\Document\Project\NewPicture.jpg"
+file = r"NewPicture.jpg"
 files = {
     'photo': open(file, 'rb')
 }
